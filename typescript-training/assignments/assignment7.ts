@@ -20,6 +20,3 @@ console.log(reverseWords.join(" "));
 let upperCaseString: string = originalString.toUpperCase(); 
     console.log("upperCaseStringis:'"+upperCaseString+ "'");
 
-
-console.log("\nSentence with first letter of each word in uppercase:");
-console.log(upperCaseString);g
